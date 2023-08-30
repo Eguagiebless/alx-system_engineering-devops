@@ -1,1 +1,1 @@
-print long format
+display hidden file
