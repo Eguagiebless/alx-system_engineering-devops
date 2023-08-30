@@ -1,1 +1,1 @@
-changes directory to home directory
+print long format
