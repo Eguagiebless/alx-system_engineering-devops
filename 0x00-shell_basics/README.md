@@ -1,1 +1,1 @@
-create /tmp file
+move betty file
