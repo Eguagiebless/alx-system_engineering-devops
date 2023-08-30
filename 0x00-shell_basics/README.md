@@ -1,1 +1,1 @@
-delete directoty
+changes working dir to previous one
