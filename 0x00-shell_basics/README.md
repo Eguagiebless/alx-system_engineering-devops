@@ -1,1 +1,1 @@
-changes working dir to previous one
+list all files with period charactoer
