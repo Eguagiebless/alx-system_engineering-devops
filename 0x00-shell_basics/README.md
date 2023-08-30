@@ -1,1 +1,1 @@
-list all files with period charactoer
+print type of file
