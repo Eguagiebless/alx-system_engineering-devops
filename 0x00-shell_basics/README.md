@@ -1,1 +1,1 @@
-display hidden file
+display file with group id
