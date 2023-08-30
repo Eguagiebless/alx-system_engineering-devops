@@ -1,1 +1,1 @@
-list files
+changes directory to home directory
