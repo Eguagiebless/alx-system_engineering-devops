@@ -1,1 +1,1 @@
-play starwars
+add execute permission
