@@ -1,1 +1,1 @@
-create my_dir with permission 751
+change group owner to school
