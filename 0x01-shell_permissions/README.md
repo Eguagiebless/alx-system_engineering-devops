@@ -1,1 +1,1 @@
-give permission to only other user
+set 753 permission to hello file
