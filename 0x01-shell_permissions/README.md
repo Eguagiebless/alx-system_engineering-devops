@@ -1,1 +1,1 @@
-print working directory
+print user name of current user
