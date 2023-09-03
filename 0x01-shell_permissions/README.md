@@ -1,1 +1,1 @@
-if_only
+play starwars
