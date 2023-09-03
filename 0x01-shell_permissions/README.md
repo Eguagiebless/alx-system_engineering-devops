@@ -1,1 +1,1 @@
-print all groups of the current user
+change the owner of the file to user betty
