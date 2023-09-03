@@ -1,1 +1,1 @@
- add execute permission to subdirectories of current file
+create my_dir with permission 751
