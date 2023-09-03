@@ -1,1 +1,1 @@
-set 753 permission to hello file
+mirror_permission
