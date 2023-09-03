@@ -1,1 +1,1 @@
-add execute permission to hello
+multiple permission
