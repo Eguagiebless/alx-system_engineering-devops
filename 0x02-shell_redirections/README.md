@@ -1,1 +1,1 @@
-print smiley character
+display /etc/passwd
