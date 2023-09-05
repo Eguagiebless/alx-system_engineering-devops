@@ -1,1 +1,1 @@
-a script that displays the third line of the file iacta
+display content in a new file
