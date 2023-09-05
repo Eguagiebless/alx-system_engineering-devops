@@ -1,1 +1,1 @@
-display last ten lines of passwd
+display first ten lines
