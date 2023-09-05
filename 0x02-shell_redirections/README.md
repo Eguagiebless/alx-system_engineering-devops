@@ -1,1 +1,1 @@
-display two files
+display last ten lines of passwd
