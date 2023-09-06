@@ -1,1 +1,1 @@
-print hello world
+creates an alias
